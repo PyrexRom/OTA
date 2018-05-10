@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<Stable>
+
+<walleye>
+
+<Filename></Filename>
+<BuildUrl
+  id="build"
+  title="Latest Build"
+  description="Download Here"></BuildUrl>
+
+<VendorUrl
+  id="Vendor"
+  title="Vendor"
+  description="Download Here"></VendorUrl>
+
+<ChangelogUrl
+  id="changelog"
+  title="Changelog"
+  description="Whats New"></ChangelogUrl>
+
+<FlashkernelUrl
+  id="flashkernel"
+  title="Flash Kernel v2.49 by TheFlash"
+  description="No dtbo img file, to work on Lineage base">https://www.androidfilehost.com/?fid=5862345805528041634</FlashkernelUrl>
+
+<ExkernelUrl
+  id="exkernel"
+  title="ElementalX Kernel v1.10 by Flar2"
+  description="No dtbo img file, to work on Lineage base">https://www.androidfilehost.com/?fid=5862345805528041635</ExkernelUrl>
+
+</walleye>
+
+</Stable>
+</SlimOTA>
